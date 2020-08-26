@@ -8,7 +8,7 @@ import pandas as pd
 
 mydb = mysql.connector.connect(
                 user="root",
-                passwd="12365sql",
+                passwd="password",
                 database="WordCount"
               )
 
